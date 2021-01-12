@@ -1,0 +1,83 @@
+diff --git a/stylesheets/_variables.scss b/stylesheets/_variables.scss
+index acb0db5b..2baecf42 100644
+--- a/stylesheets/_variables.scss
++++ b/stylesheets/_variables.scss
+@@ -7,24 +7,24 @@ $inter: Inter, 'Helvetica Neue', 'Source Sans Pro', 'Source Han Sans SC',
+ 
+ // -- V3 Colors
+ 
+-$color-accent-blue: #2c6bed;
+-$color-accent-green: #4caf50;
+-$color-accent-red: #f44336;
+-$color-accent-yellow: #ffd624;
++$color-accent-blue: #8be9fd;
++$color-accent-green: #50fa7b;
++$color-accent-red: #ff5555;
++$color-accent-yellow: #f1fa8c;
+ 
+ $color-white: #ffffff;
+-$color-gray-02: #f6f6f6;
+-$color-gray-05: #e9e9e9;
+-$color-gray-15: #dedede;
+-$color-gray-20: #c6c6c6;
+-$color-gray-25: #b9b9b9;
+-$color-gray-45: #848484;
+-$color-gray-60: #5e5e5e;
+-$color-gray-65: #4a4a4a;
+-$color-gray-75: #3b3b3b;
+-$color-gray-80: #2e2e2e;
+-$color-gray-90: #1b1b1b;
+-$color-gray-95: #121212;
++$color-gray-02: #f8f8f2;
++$color-gray-05: #e3e5e7;
++$color-gray-15: #cdd2dc;
++$color-gray-20: #b8bfd1;
++$color-gray-25: #a2abc5;
++$color-gray-45: #8d98ba;
++$color-gray-60: #7785af;
++$color-gray-65: #6272a4;
++$color-gray-75: #555f83;
++$color-gray-80: #44475a;
++$color-gray-90: #383a4a;
++$color-gray-95: #282a36;
+ $color-black: #000000;
+ 
+ $color-white-alpha-20: rgba($color-white, 0.2);
+@@ -43,14 +43,14 @@ $ultramarine-brand-dark: #1851b4;
+ $ultramarine-ui-light: #2c6bed;
+ $ultramarine-ui-dark: #6191f3;
+ 
+-$color-crimson: #cc163d;
+-$color-vermilion: #c73800;
++$color-crimson: #8be9fd;
++$color-vermilion: #ffb86c;
+ $color-burlap: #746c53;
+ $color-forest: #3b7845;
+ $color-wintergreen: #1c8260;
+ $color-teal: #067589;
+-$color-blue: #336ba3;
+-$color-indigo: #5951c8;
++$color-blue: #bd93f9;
++$color-indigo: #ff79c6;
+ $color-violet: #862caf;
+ $color-plum: #a23474;
+ $color-taupe: #895d66;
+@@ -78,14 +78,14 @@ $color-plum-tint: #dcb2ca;
+ $color-taupe-tint: #cfb5bb;
+ $color-steel-tint: #bebec6;
+ 
+-$color-crimson-shade: #8a0f29;
+-$color-vermilion-shade: #872600;
++$color-crimson-shade: #6cb5c5;
++$color-vermilion-shade: #c68f54;
+ $color-burlap-shade: #58513c;
+ $color-forest-shade: #2b5934;
+ $color-wintergreen-shade: #36544a;
+ $color-teal-shade: #055968;
+-$color-blue-shade: #285480;
+-$color-indigo-shade: #4840a0;
++$color-blue-shade: #9372c2;
++$color-indigo-shade: #c65e9a;
+ $color-violet-shade: #6b248a;
+ $color-plum-shade: #881b5b;
+ $color-taupe-shade: #6a4e54;
